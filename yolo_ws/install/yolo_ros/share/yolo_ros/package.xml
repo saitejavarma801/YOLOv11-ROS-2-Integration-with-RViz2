@@ -1,0 +1,21 @@
+<?xml version="1.0"?>
+<package format="3">
+  <name>yolo_ros</name>
+  <version>0.0.0</version>
+  <description>YOLOv11 ROS 2 Python node</description>
+
+  <maintainer email="stv@todo.todo">stv</maintainer>
+  <license>Apache-2.0</license>
+
+  <!-- Build type -->
+  <buildtool_depend>ament_python</buildtool_depend>
+
+  <!-- Runtime dependencies -->
+  <exec_depend>rclpy</exec_depend>
+  <exec_depend>sensor_msgs</exec_depend>
+  <exec_depend>cv_bridge</exec_depend>
+
+  <export>
+    <build_type>ament_python</build_type>
+  </export>
+</package>
