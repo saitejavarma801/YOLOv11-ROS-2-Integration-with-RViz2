@@ -46,6 +46,9 @@ That’s it — clean, simple, and reliable.
     pip install Numpy 
 
 ----
+***Download the YoloV11m.pt in the yolo_ws, it should be next to the src folder***
+
+<img width="612" height="106" alt="image" src="https://github.com/user-attachments/assets/b56e69f9-55bb-49db-a6bc-e727f37fe980" />
 
 
 ## Download the Workspace
